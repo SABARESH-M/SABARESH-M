@@ -1,6 +1,6 @@
 ![rocket](https://user-images.githubusercontent.com/105087810/195887346-a3406c72-ddce-4af1-9ae5-b4680c403e12.gif)
-<h1 align="center">Hi 👋, I'm M.SABARESH</h1>
-<h3 align="center">JOB SEEKER</h3>
+<h1 align="center">Hi 👋, I'm M.Sabaresh</h1>
+<h3 align="center">Job Seeker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabaresh-m&label=Profile%20views&color=0e75b6&style=flat" alt="sabaresh-m" /> </p>
 
